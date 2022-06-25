@@ -21,3 +21,12 @@ This screen includes a scrollable list of reviews for each location. Reviews wil
 ### Profile Screen
 
 This screen will include a scrollable list of your favorite locations, and then a logout button. Nothing too fancy here to keep the application simple. 
+
+## Current Task List
+
+* Compute average star ratings for each location
+* Finish log-in system
+* Implementing the "favorites" feature
+* Creating the criteria sliders
+* Integrating Google Maps API for routing
+* Revamp UI and stylize
